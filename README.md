@@ -1,9 +1,9 @@
 # presence-engine
 
-![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-5.7+-4479A1?logo=mysql&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge)
 
 <img width="1672" height="836" alt="PresenceEngine - Real-time presence tracking system for multi-section teams banner" src="https://github.com/user-attachments/assets/e6cb98e3-fce7-41db-a554-248a74a83c73" />
 
